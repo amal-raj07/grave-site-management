@@ -1,0 +1,57 @@
+.Header-container {
+    display: flex;
+    background-color: black;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+    flex-grow: 1;
+  }
+  .Title-container {
+    display: flex;
+    align-items: center;
+  }
+  .SubMenu-container {
+    display: flex;
+  }
+  .HelperMenu-container {
+    display: flex;
+    align-items: center;
+  }
+  .Icon-color {
+    color: white;
+  }
+  .Title-text {
+    color: white;
+  }
+  .Maintain-Box {
+    display: flex;
+    background-color: #36454f;
+    border-radius: 20px;
+    align-items: center;
+  }
+  .Maintain-text {
+    color: white;
+    font-size: 14px;
+    margin: 0px;
+  }
+  .Sub-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .User-text {
+    margin: 0px;
+    color: white;
+    font-size: 11px;
+    line-height: 11px;
+    text-align: center;
+  }
+  .Grey-text {
+    color: grey;
+  }
+  .User-name-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+  }
